@@ -1,0 +1,182 @@
+@charset "utf-8";
+/* CSS Document */
+
+p	{font-family: Impact, Charcoal, sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top:0px;
+	color: #000000}
+
+h	{font-family: Impact, Charcoal, sans-serif;
+	font-size: 100px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #f8f8f8}
+
+p2	{font-family: Impact, Charcoal, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #000000}
+
+p3	{font-family: Impact, Charcoal, sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #000000}
+
+body {
+	background-color: #000000;
+}
+
+
+#Window {
+	width:216px;
+	height:216px;
+	position:absolute;
+	top:91px;
+	left:103px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+}
+
+
+#Window2 {
+	width:800px;
+	height:350px;
+	position:absolute;
+	top:201px;
+	left:103px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+	background-image: url("../Images/allsounds.jpg");
+}
+
+
+#Window3 {
+	width:500px;
+	height:216px;
+	position:absolute;
+	top:91px;
+	left:359px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px 10px;
+	background-color: #f8f8f8;
+	}
+
+#Window4{
+	width:216px;
+	height:216px;
+	position:absolute;
+	top:347px;
+	left:643px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+	}
+
+#Window5{
+	width:500px;
+	height:216px;
+	position:absolute;
+	top:347px;
+	left:103px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+	}
+
+#Window6{
+	width:400px;
+	height:473px;
+	position:absolute;
+	top:91px;
+	left:899px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+	}
+
+#Window7{
+	width:200px;
+	height:200px;
+	position:absolute;
+	top:0px;
+	left:1033px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+	}
+
+#Window8{
+	width:200px;
+	height:200px;
+	position:absolute;
+	top:220px;
+	left:1033px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+	}
+
+#Window9{
+	width:200px;
+	height:200px;
+	position:absolute;
+	top:440px;
+	left:1033px;
+	text-align:left;
+	overflow:hidden;
+	padding:10px;
+	background-color: #f8f8f8;
+	}
+
+#player {
+ width: 95%;
+}
+
+video {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.style1 {
+	color: #3366FF;
+	font-size: 200px;
+}
+
+.style2 {
+	color: #FF9900;
+	font-size: 100px;
+}
+
+.text1 {font-family: Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 100px; 
+	color: #33CCCC; 
+	
+	}
